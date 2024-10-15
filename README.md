@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DasJhaman
 - 👀 I’m interested in creating scalable products
-- 🌱 I’m currently learning Android Jetpack compose
 - 💞️ I’m looking to collaborate on Android
 - 📫 How to reach me https://www.linkedin.com/in/jhaman/
 
